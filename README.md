@@ -1,9 +1,11 @@
 # Welcome to my github 
-My name is Roland Hufnagel and I am a student in Web Dev @neuefische.de. My interests are - next to coding - music and vintage things.
+My name is Roland Hufnagel and I am a student in Web Dev @neuefische.de. My interests are - next to coding - Rock'n'Roll Music, Photography and vintage things.
 
 ## Skills I am learning and my learning progress
 
-Last updated: 2022-8-28
+
+
+> Last Update: 2022-8-28 
 
 | Skills: | Beginner | Beginner+ | Advanced | Advanced+ | Professional |
 | --- | --- | --- | --- | --- | --- |
