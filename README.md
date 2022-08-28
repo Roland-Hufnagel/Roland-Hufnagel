@@ -14,4 +14,5 @@ My name is Roland Hufnagel and I am a student in Web Dev @neuefische.de. My inte
 | Shell + Terminal |  |  | :man_student: |  |  |
 | CSS-Basics |  |  |  |  | :man_student: |
 | CSS Positioning |  |  |  |  | :man_student: |
+| CSS Flexbox |  |  |  |  | :man_student: |
 
